@@ -25,6 +25,8 @@
     <ul>
       <li>Create: Use the provided form to enter new data and submit it to create a new record.</li>
       <li>Read: View existing records in a table format.</li>
+      <li>Update: Edit existing records by clicking the "Edit" button and saving the changes.</li>
+      <li>Delete: Remove existing records by clicking the "Delete" button.</li>
     </ul>
   </li>
 </ol>
