@@ -10,3 +10,9 @@
   <li>MySQL: A MySQL database server.</li>
   <li>Bootstrap: The latest version of the Bootstrap framework.</li>
 </ul>
+<h2>Installation</h2>
+<ol type="1">
+  <li>Clone the Repository: https://github.com/leoGoD10/crudapp.git</li>
+  <li>Set Up Database: Create a MySQL database and import the provided SQL schema file (database.sql) into it. Adjust the database connection details in the PHP configuration file (config.php).</li>
+  <li>Configure Environment: Update the config.php file with your MySQL database credentials and any other necessary configuration settings.</li>
+</ol>
