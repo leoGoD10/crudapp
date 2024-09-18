@@ -20,5 +20,11 @@
 </ol>
 <h2>Usage</h2>
 <ol type="1">
-  
+  <li>Access the Application: Open your web browser and navigate to the application's root directory.</li>
+  <li>Perform CRUD Operations:
+    <ul>
+      <li>Create: Use the provided form to enter new data and submit it to create a new record.</li>
+      <li>Read: View existing records in a table format.</li>
+    </ul>
+  </li>
 </ol>
