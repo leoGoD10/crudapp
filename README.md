@@ -30,3 +30,6 @@
     </ul>
   </li>
 </ol>
+<h2>Contributing</h2>
+<p>If you'd like to contribute to this project, please follow the guidelines outlined in the file. <br>
+By following these instructions, you should be able to successfully set up and run the CRUD application using PHP, MySQL, and Bootstrap.</p>
